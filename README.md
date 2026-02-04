@@ -1,6 +1,7 @@
-
 <p align="center">
-  <img src="hospital-operations-ai-insights.png" alt=" Hassan Jameel " width="600" hight="250"/>
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/hospital-operations-ai-analytics-patient" target="_blank">
+    <img src="hospital-operations-ai-insights.png" alt="hospital operations" width="500">
+  </a>
 </p>
 
 
